@@ -9,11 +9,13 @@ Big thanks, man.
 
 #### Short-polling
 
-Send a request to the server, get an instant answer. Do this every x seconds, minutes etc.
+Send a request to the server, get an instant answer. Do this every x seconds, minutes etc. to keep your application
+up-to-date. But: This costs a lot of requests.
 
 #### Long-polling
 
-Send a request to the server, keep the connection open, get an answer when there's "data" for you.
+Send a request to the server, keep the connection open, get an answer when there's "data" for you. This will cost you
+only one request (per user), but the request keeps a permanent connection between client and server up.
 
 ## How to use
 
