@@ -19,9 +19,14 @@ only one request (per user), but the request keeps a permanent connection betwee
 
 ## How to use
 
-To test, simply change the URL in client/client.js to the location of your server.php file:
-`url: 'http://127.0.0.1/php-long-polling/server/server.php'` and open the `client/index.html`.
-You should get a good idea how everything works by looking into the code, I think it's self-explaining ;)
+To test, simply change the URL in client/client.js to the location of your server.php file, for local testing
+`url: 'http://127.0.0.1/php-long-polling/server/server.php'` will do the job. Open the `client/index.html` to simulate
+the client.
+
+While having the index.open in your browser, edit the data.txt on the server (and save it). You'll see index.html
+instantly getting the new content. Voila!
+
+You should get a good idea how everything works by looking into the code, I think it's self-explaining.
 
 ## In a real-world application ...
 
