@@ -1,9 +1,9 @@
 # php-long-polling
 
 A very simple demonstration of long-polling with AJAX (jQuery) and PHP. Long-polling makes near "real-time"
-applications possible. The client don't request new data, the client gets new data delivered (push-notification style).
-This is an improved, cleaned and documented fork of https://github.com/lincolnbrito/php-ajax-long-polling !
-Big thanks, man.
+applications possible. The client does not request new data every X seconds/minutes, the client gets new data
+delivered when there is new data (push-notification style). This is an improved, cleaned and documented
+fork of https://github.com/lincolnbrito/php-ajax-long-polling ! Big thanks, man.
 
 ## What is long-polling (and short polling) ?
 
