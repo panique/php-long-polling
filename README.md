@@ -18,7 +18,7 @@ Send a request to the server, keep the connection open, get an answer when there
 ## How to use
 
 To test, simply change the URL in client/client.js to the location of your server.php file:
-`url: 'http://127.0.0.1/php-long-polling/server/server.php'` and open the client/index.html.
+`url: 'http://127.0.0.1/php-long-polling/server/server.php'` and open the `client/index.html`.
 You should get a good idea how everything works by looking into the code, I think it's self-explaining ;)
 
 ## In a real-world application ...
