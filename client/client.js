@@ -6,8 +6,6 @@
  * 3. if server.php responds (whenever), put data_from_file into #response
  * 4. and call the function again
  *
- * TODO: add a timeout / prevent
- *
  * @param timestamp
  */
 function getContent(timestamp)

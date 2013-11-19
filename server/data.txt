@@ -1,2 +1,1 @@
-﻿demo data from file data.txt !
-Change this data (and save the file) to see the changed content INSTANTLY on your site !
+﻿This is demo data from file data.txt ! Change (and save the file) to see the changed content INSTANTLY on your site !
