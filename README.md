@@ -38,6 +38,7 @@ data faster, with much less memory usage and afaik while using only ONE thread.
 2. Apache2 uses 18MB afaik per thread by default, so having a "permanent connection" with 100 clients will use a lot
 of memory. I'm currently experimenting with lighttpd, NGINX and appserver.io to find a better solution.
 
+## Statistics
 
 [![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/panique/php-long-polling/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
 
