@@ -48,7 +48,7 @@ while (true) {
         // leave this loop step
         break;
 
-    } else 	{
+    } else {
         // wait for 1 sec (not very sexy as this blocks the PHP/Apache process, but that's how it goes)
         sleep( 1 );
         continue;
