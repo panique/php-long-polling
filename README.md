@@ -23,8 +23,8 @@ To test, simply change the URL in client/client.js to the location of your serve
 `url: 'http://127.0.0.1/php-long-polling/server/server.php'` will do the job. Open the `client/index.html` to simulate
 the client.
 
-While having the index.open in your browser, edit the data.txt on the server (and save it). You'll see index.html
-instantly getting the new content. Voila!
+While having the index.html opened in your browser, edit the data.txt on the server (and save it). You'll see index.html
+instantly (!) getting the new content. Voila!
 
 You should get a good idea how everything works by looking into the code, I think it's self-explaining.
 
