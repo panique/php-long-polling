@@ -40,4 +40,4 @@ of memory. I'm currently experimenting with lighttpd, NGINX and appserver.io to 
 
 ## You like that ?
 
-:) Then have a look at my blog [DEV METAL](http://www.dev-metal.com), at [my other repos](https://github.com/panique) or [donate two dollars for a big coffee](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=P5YLUK4MW3LDG). Thanks!
+:) Then have a look at my blog [DEV METAL](http://www.dev-metal.com), at [my other repos](https://github.com/panique), [donate two dollars for a big coffee](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=P5YLUK4MW3LDG) or [Flattr the project](https://flattr.com/submit/auto?user_id=panique&url=https%3A%2F%2Fgithub.com%2Fpanique%2Fphp-long-polling). Thanks!
