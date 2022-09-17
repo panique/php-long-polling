@@ -40,4 +40,6 @@ of memory. I'm currently experimenting with lighttpd, NGINX and appserver.io to 
 
 ## You like that ?
 
-:) Then have a look at my blog [DEV METAL](http://www.dev-metal.com), at [my other repos](https://github.com/panique) or support this and other projects by renting a server at [Host1Plus](https://affiliates.host1plus.com/ref/devmetal/36f4d828.html). Thanks!
+:) Then have a look at my blog [DEV METAL](http://www.dev-metal.com), at [my other repos](https://github.com/panique) or support this and other projects by renting a server at [DigitalOcean](https://www.digitalocean.com/?refcode=40d978532a20) or tip a coffee at BuyMeACoffee.com. Thanks! :)
+
+<a href="https://www.buymeacoffee.com/panique" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
